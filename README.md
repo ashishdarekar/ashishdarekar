@@ -1,7 +1,12 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Master Thesis on "Development of a general OpenFOAM-Coupling-Adapter for the Kratos-CoSimulation Multiphysics solver" at the [Chair of Structural Analysis at the Technical University of Munich](https://www.cee.ed.tum.de/en/st/home/) under the guidance of [Philipp Bucher](https://github.com/philbucher). I am also working for the developement of [Kratos](https://github.com/KratosMultiphysics/Kratos).
-- 📫 How to reach me: ashishdarekar14@gmail.com / (+49)15129426202
+I am Ashish Darekar. Recent Graduate with MS in Computational Science and Engineering looking to leverage my experience developing scientific softwares required in the simulation industries. Passionate about Numerical Methods, Scientific Computing, HPC, CFD, FEA, Multiphysics, FSI and Software Development.
+<!--  -->
+I’m currently working on Master Thesis on "Development of a general OpenFOAM-Coupling-Adapter for the Kratos-CoSimulation Multiphysics solver" at the [Chair of Structural Analysis at the Technical University of Munich](https://www.cee.ed.tum.de/en/st/home/) under the guidance of [Philipp Bucher](https://github.com/philbucher). I am also working for the developement of [Kratos](https://github.com/KratosMultiphysics/Kratos).
+<!--  -->
+
+- 😄 Call me : Daru
+- 📫 Reach me: ashishdarekar14@gmail.com / (+49)15129426202
 
 ---
 You can also find me on LinkedIn:
